@@ -1,1 +1,1 @@
-cat("temp")
+cat("Hi. I hope this message finds you well. I am writing to you on behalf of the people from the planet Earth. We are curious if you would like to be friends. Please send a reply indicating your response. cya - AN")
